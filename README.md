@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 
 
-<!--
-**KaSouzaa18/KaSouzaa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Karollyne Victoria 
 
-Here are some ideas to get you started:
+- Eu tenho 15 anos
+- Eu sou estudante do ensino médio em uma escola estadual  
+- Estou estudando na plataforma Alura
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço essa plataforma para minha organização e compartilhamento dos meus projetos desenvolvidos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo se precisar de ajuda ou estiver uma duvida 📧
+
+k4rolsantos45@gmail.com
+
+@_kahsouzaax
+
+![](https://media1.tenor.com/m/ZQvflL5MDbsAAAAC/stranger-things.gif)
